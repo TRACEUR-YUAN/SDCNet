@@ -12,7 +12,8 @@ Please stay tuned.
 ## Datasets
 The experiments are conducted on the following public datasets:
 - BCI Competition IV-2a: https://www.bbci.de/competition/iv/
-- OpenBMI: https://openbmi.org/
+- OpenBMI: [https://openbmi.org/](https://gigadb.org/dataset/100542)
 
 ## Citation
 If you find this work useful, please cite our paper (coming soon).
+
